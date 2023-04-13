@@ -20,6 +20,9 @@ const styles = StyleSheet.create({
       justifyContent: 'Center',
     },
     titulo: {
+    Border: 4,
+    borderColor: 'black',
+    borderWidth: 4,
       fontSize: 30,
       padding: 30,
       marginBottom: 300,
